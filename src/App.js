@@ -54,10 +54,7 @@ function App() {
   return (
     <Container>
       <Row>
-        <a
-          href="https://github.com/JulieZhang0102/SI579-PS6/tree/main/src"
-          target="_blank"
-        >
+        <a href="https://github.com/JulieZhang0102/SI579-ps6" target="_blank">
           Link to Source Code
         </a>
       </Row>
